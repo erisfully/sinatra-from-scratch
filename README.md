@@ -13,3 +13,5 @@ If you finish with the first task, provide a way for Terence to view the emails 
 ## Really impress Terence
 
 Show the emails in the database *without* writing any code.
+
+Nothing works.
